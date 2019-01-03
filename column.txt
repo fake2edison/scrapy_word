@@ -1,0 +1,13 @@
+maid
+mname
+name
+password
+passwd
+tusername
+mtime
+mes
+id
+meid
+tid
+mid
+aid
